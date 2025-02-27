@@ -1,0 +1,11 @@
+ul {
+    list-style: circle;
+}
+
+ul > li:first-child {
+    list-style: "d"
+}
+
+ol {
+    list-style: lower-alpha;
+}
